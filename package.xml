@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package>
+  <name>playground_builder_msgs</name>
+  <version>1.0.0</version>
+  <description>Messages, services and action definitions for the playground_builder experimental framework</description>
+
+  <maintainer email="severin.lemaignan@plymouth.ac.uk">Séverin Lemaignan</maintainer>
+  <author email="severin.lemaignan@plymouth.ac.uk">Séverin Lemaignan</author>
+
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>geometry_msgs</build_depend>
+  <build_depend>actionlib_msgs</build_depend>
+  <build_depend>nav_msgs</build_depend>
+  <run_depend>geometry_msgs</run_depend>
+  <run_depend>actionlib_msgs</run_depend>
+  <run_depend>nav_msgs</run_depend>
+
+</package>
