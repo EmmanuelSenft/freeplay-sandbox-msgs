@@ -12,6 +12,7 @@ add_message_files(
     FILES
     AttentionTarget.msg
     AttentionTargetsStamped.msg
+    ListFloatStamped.msg
 )
 
 add_action_files(
