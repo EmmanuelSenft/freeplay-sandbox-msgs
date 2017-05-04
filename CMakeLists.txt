@@ -14,6 +14,8 @@ add_message_files(
     AttentionTargetsStamped.msg
     ListIntStamped.msg
     ListFloatStamped.msg
+    ContinuousAction.msg
+    DiscreteAction.msg
 )
 
 add_action_files(
