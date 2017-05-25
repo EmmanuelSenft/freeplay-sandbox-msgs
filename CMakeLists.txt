@@ -16,6 +16,7 @@ add_message_files(
     ListFloatStamped.msg
     ContinuousAction.msg
     DiscreteAction.msg
+    RewardMessage.msg
 )
 
 add_action_files(
