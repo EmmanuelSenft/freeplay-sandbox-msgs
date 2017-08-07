@@ -1,4 +1,4 @@
 Header header
-int16[] data
-bool[] mask
-bool[] maskAction
+int16 action_id
+bool[] state_mask
+bool[] trigger_mask
